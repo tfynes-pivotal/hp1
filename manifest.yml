@@ -1,0 +1,5 @@
+applications:
+- name: hp1
+  disk_quota: 1G
+  instances: 1
+  memory: 1G
